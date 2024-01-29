@@ -1,10 +1,5 @@
 <h1>Hello Im Sebastian⚓</h1>
-<h2>🔥🔥🔥🔥🔥🔥🔥</h2>
 
-
-![Real Madrid](og-image.jpg "Campeones")
-
-[![Real Madrid](/assets/images/shiprock.jpg "Campeones")](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.realmadrid.com%2F&psig=AOvVaw1eo95T0_mJSsEYpggnqSLZ&ust=1684438158888000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODI76OL_f4CFQAAAAAdAAAAABAD)
 
 <!--
 **SebastianCamposI/SebastianCamposI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
