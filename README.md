@@ -1,12 +1,6 @@
 <h1>Hello Im Sebastian⚓</h1>
 <h2>🔥🔥🔥🔥🔥🔥🔥</h2>
 
-<ol>
-  <li><strong>Me gustan los juegos</strong></li>
-  <li><strong>Me gusta viajar</strong></li>
-  <li><strong>Me gusta escuchar música</strong></li>
-  <li><strong>Me gusta jugar futbol</strong></li>
-</ol>
 
 ![Real Madrid](og-image.jpg "Campeones")
 
